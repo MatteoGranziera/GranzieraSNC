@@ -4,7 +4,21 @@
 
 .container{
     margin-top:50px;
+}
+
+.content{
+    margin-top:50px;
     box-shadow: 5px 5px 5px #808080;
     border-radius: 5px;
     background:rgba(255, 255, 255, 0.46);
+}
+
+.logo-background{
+    background-color:white;
+}
+.logo{
+    height:150px;
+    background-image:url('../images/logo.svg');
+    background-size:contain;
+    background-repeat:no-repeat;
 }
